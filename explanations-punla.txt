@@ -1,0 +1,18 @@
+changes made to fit bc it really wont work:
+
+*
+line 368
+from width: 100% to width 52%
+from lorem30 to lorem25
+time stamp: 2:20:09
+what i tried: 
+-made sure that the code are literally the same
+-re-watch that part thousands of times
+-checked and made sure if path of imports, bootstrap version is the same as the video
+-did the whole video, restart from scratch 2x
+
+*jquery.bxslider.css
+line 33
+from bottom: 200px to 85px (supposedly had to change it to 170px just like the vid but accdng to the video, i can change it until I get the perfect look
+time stamp: 2:40:00
+
